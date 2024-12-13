@@ -30,7 +30,6 @@ html, body {
     padding: 0px 20px;
     box-sizing: border-box;
     flex-direction: column;
-    
 }
 
 .side-section h1 {
@@ -90,4 +89,12 @@ html, body {
     left: 0;
     height: 100%;
     background-color: aquamarine;
+}
+
+.job-title {
+    margin: 0;
+}
+
+.job-years {
+    margin: 0;
 }
